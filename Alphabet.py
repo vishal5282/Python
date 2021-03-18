@@ -5,4 +5,4 @@ for i in range(0,n):
         ch=chr(num)
         print(ch,end=" ")
         num=num+1
-    print("")
+    print("\n")
